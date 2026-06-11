@@ -5,8 +5,8 @@ Welcome to **PyLogic Suite**, an interactive, multi-functional, and menu-driven 
 ---
 
 ## 📹 Project Demonstration Video
-[![Watch the Demo Video](https://img.shields.io/badge/YouTube-Watch%20Demo-red?style=for-the-badge&logo=youtube)](YOUTUBE_OR_DRIVE_VIDEO_LINK_HERE)
-> **⚠️ Action Required:** Please replace the placeholder link above with your actual recorded 1-minute video URL (Google Drive or YouTube link).
+[![Watch the Demo Video](https://img.shields.io/badge/YouTube-Watch%20Demo-red?style=for-the-badge&logo=youtube)](https://drive.google.com/file/d/1bH9K86Z6iqnryOmk5eNkR4bZqzLMRwgZ/view?usp=drive_link)
+
 
 ---
 
